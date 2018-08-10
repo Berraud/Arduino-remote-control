@@ -1,7 +1,7 @@
 # Arduino-remote-control
-Arduino based multi channel remote control for aeromodelism with telemetry and PS2 controller
-Based on arduino pro mini and NRF20L01 modules. Uses a PS2 remote controller as input
-Features multiple channels and memory for saving multiple models. Dual rates, throttle cut, default position on-fly set up (in case of signal lost), telemetry for measuring remote battery voltage and some other things.
+Arduino based multi channel remote control for aeromodelism with telemetry and PS2 controller.
+Based on arduino pro mini and NRF20L01 modules. Uses a PS2 remote controller as input.
+Features multiple channels and memory for saving multiple models. Dual rates, throttle cut, on-fly default position set up (in case of signal lost), telemetry for measuring remote battery voltage and some other things.
 If you have any questions email me to simonb2230@gmail.com
 
 Based on a few nice projects from:
